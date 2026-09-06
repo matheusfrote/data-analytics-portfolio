@@ -59,3 +59,9 @@ If any excluded source is later published, create a sanitized version first:
 3. remove personal/lead-level data;
 4. verify licensing for Kantar/Instar metrics;
 5. remove private links and contact details.
+
+## Dashboard publication update
+
+The repository package now includes selected dashboard PDFs under `/dashboards/` because the portfolio owner explicitly chose to make the visual work directly accessible.
+
+This does **not** remove the need for a final confidentiality / licensing review before public publication.

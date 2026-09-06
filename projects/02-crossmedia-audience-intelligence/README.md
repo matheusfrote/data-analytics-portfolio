@@ -43,3 +43,11 @@ The original dashboards contain proprietary/licensed audience data and internal 
 ## Skills demonstrated
 
 Audience Intelligence · BI · Crossmedia Measurement · KPI Standardization · Data Integration · Executive Reporting · Data Storytelling
+
+## Dashboard evidence
+
+- [Crossmedia Audience Dashboard](../../dashboards/05-crossmedia-audience-grupo-ric.pdf)
+- [Daily TV Audience Dashboard](../../dashboards/04-tv-audience-daily-grupo-ric.pdf)
+- [Audience Migration Dashboard](../../dashboards/07-audience-migration-balanco-geral.pdf)
+- [Executive TV Audience Dashboard](../../dashboards/08-executive-tv-audience-apr-2025.pdf)
+- [Balanço Geral Results Dashboard](../../dashboards/09-balanco-geral-results.pdf)

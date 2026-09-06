@@ -4,13 +4,13 @@ These projects are included as **candidate-described collaborations**. I do not 
 
 ## Altroz
 
-[Visit altroz.com.br](https://www.altroz.com.br/)
+[**Open Altroz website**](https://www.altroz.com.br/)
 
 Collaboration in the creation/evolution of the digital presence, contributing to the broader intersection of content, marketing, user experience and web delivery.
 
 ## Innova Promotora
 
-[Visit innovapromotora.com.br](https://www.innovapromotora.com.br/)
+[**Open Innova Promotora website**](https://www.innovapromotora.com.br/)
 
 Collaboration in the creation/evolution of a conversion-oriented website experience for a financial-services context.
 

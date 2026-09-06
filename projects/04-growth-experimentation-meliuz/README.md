@@ -26,6 +26,11 @@ Three groups were analyzed with cashback levels of **3.2%, 5.5% and 7.8%**.
 
 The analysis showed that higher cashback increased purchasing response, but the economic cost grew faster. The recommendation favored the intermediate cashback level rather than maximizing the incentive.
 
+
+## Live dashboard
+
+[**Open live Méliuz dashboard**](https://insight-compass-609.lovable.app/)
+
 ## Evidence
 
 [Open the case PDF](evidence/meliuz-growth-case.pdf)

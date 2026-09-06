@@ -2,7 +2,7 @@
 
 **Flagship technical project**
 
-[View public repository](https://github.com/matheusfrote/Easy-Mix-Modeling-2)
+[**Open Easy Mix Modeling 2 on GitHub**](https://github.com/matheusfrote/Easy-Mix-Modeling-2)
 
 ## Problem
 

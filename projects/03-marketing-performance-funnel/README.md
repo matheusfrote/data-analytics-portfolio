@@ -41,3 +41,7 @@ The original dashboard contains real campaign, manufacturer, lead and commercial
 ## Skills demonstrated
 
 Marketing Analytics · Funnel Analytics · GA4 · Google Ads · HubSpot · BI · KPI Design · Executive Reporting
+
+## Dashboard evidence
+
+- [Open Marketing Performance Dashboard](../../dashboards/01-marketing-performance-scansource.pdf)

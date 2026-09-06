@@ -31,3 +31,9 @@ Raw dashboards contain public-post content and internal reporting structures. Th
 ## Skills demonstrated
 
 Social Analytics · Content Performance · Audience Segmentation · BI · Dashboard Design
+
+## Dashboard evidence
+
+- [Open Social Media Audience Dashboard](../../dashboards/02-social-media-audience-grupo-ric.pdf)
+- [Open Digital Content Performance Dashboard](../../dashboards/06-digital-content-performance-grupo-ric.pdf)
+- [Open Web Audience Dashboard](../../dashboards/03-web-audience-ric-portal.pdf)

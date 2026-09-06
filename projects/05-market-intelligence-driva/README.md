@@ -28,7 +28,7 @@ Exploratory business analysis → segmentation → product/branch comparison →
 
 [Open the case PDF](evidence/driva-market-intelligence-case.pdf)
 
-[Open live dashboard](https://insights-sparkle-20.lovable.app/)
+[**Open live Driva dashboard**](https://insights-sparkle-20.lovable.app/)
 
 ## Skills demonstrated
 
